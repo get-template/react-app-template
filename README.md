@@ -10,7 +10,7 @@ This template:
 4. Simplifies App.js
 5. Organizes css into specific folder
 
-## Download and use ready-to-use template
+## Download and start ready-to-use template
 ```sh
 npx get-template@latest react-app my-app --execute-commands
 cd my-app
