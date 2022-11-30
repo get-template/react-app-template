@@ -1,6 +1,8 @@
 # Clean React App template
 A clean React app created with [Create React App](https://github.com/facebook/create-react-app)
 
+It is much faster to use than `npx create-react-app my-app`!
+
 This template:
 1. Removes unnecessary files
 2. Simplifies index.html
@@ -8,15 +10,10 @@ This template:
 4. Simplifies App.js
 5. Organizes css into specific folder
 
-## Download ready-to-use template
+## Download and use ready-to-use template
 ```sh
-npx get-template@latest react-app --execute-commands
-```
-
-## Open development mode
-In the directory you have downloaded the template:
-
-```sh
+npx get-template@latest react-app my-app --execute-commands
+cd my-app
 npm start
 ```
 
