@@ -10,12 +10,19 @@ This template:
 
 ## Download ready-to-use template
 ```sh
-npx get-template@latest react-app
+npx get-template@latest react-app --execute-commands
+```
+
+## Open development mode
+In the directory you have downloaded the template:
+
+```sh
+npm start
 ```
 
 ----
 
-# Original instructions from Create React App
+## Original instructions from Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
